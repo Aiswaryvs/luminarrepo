@@ -1,0 +1,137 @@
+.header-top{
+    padding-top: 10px;
+    background-color: rgb(33, 5, 59);
+    width: 100%;
+    height: 50px;
+    color: white;
+}
+
+.nav-link{
+    text-decoration-color: black;
+}
+
+.nav-link:hover{
+    text-decoration-color: #5e068a;
+
+}
+.c1{
+    padding-left: 325px;
+}
+.c3{
+      padding-left: 251px;
+      padding-top: 10px;
+}
+.lub1{
+    color: rgb(82, 45, 117);
+    padding-top: 130px;
+}
+.lub2{
+    color: rgb(239, 102, 249);
+}
+.lub3{
+    color:white;
+    background-color: #5e068a;
+    border: solid 2px #5e068a ;
+     border-radius: 50px ;
+     width: 200px;
+     height: 50px;
+}
+.lub3:hover{
+    color:#570f7b;
+    background-color: white;
+   
+   
+    
+
+}
+/* border style none
+hr foe horizontal line */
+label{
+    border-style: none;
+}
+span{
+    color: rgb(173, 93, 248);
+}
+.b1{
+    color: white;
+    background-color: #5e068a;
+    border-radius: 55px;
+    width: 200px;
+    height: 50px;
+    margin-left: -708px;
+  border: 2px solid #5e068a;
+    
+}
+.b1:hover{
+    background-color:transparent;
+}
+.b2{
+    color: white; 
+    background-color: rgb(57, 14, 97); 
+    border: 2px solid rgb(57, 14, 97);
+    width: 150px;
+    height: 50px;
+}
+.modal-content{
+    padding-left: 55px;
+}
+#dr1{
+    width: 410px;
+    height: 37px;
+    
+}
+.ai1{
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    color: #5e068a;
+    margin-top: 20px;
+}
+.card{
+    height: 400px;
+    margin-top: 50px; 
+    margin-left: 50px;
+    width: 33.px;
+    float: left;
+    transition: ease-in-out;
+}
+.card:hover{
+    box-shadow: 10px 10px 11px rgba(33,33,33,.2); 
+    height: 410px;
+    width: 35.px;
+}
+#oc{
+    transition: ease-in-out;
+}
+#oc:hover{
+    box-shadow: 10px 10px 11px rgba(33,33,33,.2); 
+}
+.vc{
+    color: rgb(57, 14, 97); 
+    background-color:white; 
+    border: 2px solid rgb(57, 14, 97);
+    width: 150px;
+    height: 50px;
+    border-radius: 28px;
+    margin-top: 45px;
+    margin-left: 552px;
+}
+.vc:hover{
+    color: white;
+    background-color: #570f7b;
+}
+#mg{
+    border-radius: 50%;
+}
+#ad{
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 55px;
+}
+.qes{
+    text-align: center;
+    width: 1489px;
+    height: 100px;
+    margin-top: 50px;
+}
